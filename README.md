@@ -1,15 +1,15 @@
----
-name: html-intro-1
-version: 0.0.1
-title: html-intro-1
+--- 
 description: html-intro-1
 difficultyModes: 
-	- Normal
+  - Normal
 keywords: 
-	- JavaScript
-	- css
-	- html
-	-layout
+  - JavaScript
+  - css
+  - html
+  - layout
+name: html-intro-1
+title: html-intro-1
+version: "0.0.1"
 ---
 
 #html-intro-1
