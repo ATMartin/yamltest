@@ -3,9 +3,9 @@ name: html-intro-1
 version: 0.0.1
 title: html-intro-1
 description: html-intro-1
-difficultyModes: >
+difficultyModes: 
 	- Normal
-keywords: >
+keywords: 
 	- JavaScript
 	- css
 	- html
